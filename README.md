@@ -40,6 +40,8 @@
 
 
 +)위 옵션 외에도 많은 ps 명령어 옵션
+
+
 <img width="372" alt="오픈소스 ps" src="https://user-images.githubusercontent.com/106908310/172052270-642671aa-2b89-45a9-ac63-595c87ffc994.PNG">
 
 
