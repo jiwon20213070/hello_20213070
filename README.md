@@ -37,6 +37,13 @@
 `$ ps -ef | grep seek` 모든 프로세스를 풀 포맷으로 출력한 목록에서 grep을 이용해 seek이 포함된 행 출력
 
 
++)위 옵션 외에도 많은 ps 명령어 옵션
+<img width="372" alt="오픈소스 ps" src="https://user-images.githubusercontent.com/106908310/172052270-642671aa-2b89-45a9-ac63-595c87ffc994.PNG">
+
+
+
+
+
 **jobs의 명령어 옵션**
 
 |옵션|설명|
